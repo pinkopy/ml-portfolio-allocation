@@ -157,6 +157,16 @@ Performance is compared against an equal-weight benchmark.
 
 ---
 
+## How to Run
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the notebook:
+   portfolio_engine_final.ipynb
+   
+---
+
 ## Disclaimer
 
 This project is for research and educational purposes only and does not constitute investment advice.
