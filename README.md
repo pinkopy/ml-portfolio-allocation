@@ -37,10 +37,11 @@ Rolling Out-of-Sample Evaluation
 
 ## Asset Universe
 
-- SPY — US Equities  
-- TLT — Long-Term US Treasuries  
-- GLD — Gold  
-- EFA — International Equities  
+AAPL
+MSFT
+NVDA
+JPM
+AMZN
 
 ---
 
